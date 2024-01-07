@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1080 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(2.53247,0,0,2.13462,-686.328,-621.889)">
+        <ellipse cx="480.991" cy="542.058" rx="52.834" ry="71.36" style="fill:rgb(76,76,76);"/>
+    </g>
+    <g transform="matrix(1,0,0,2.13462,50.7751,-621.889)">
+        <ellipse cx="745.159" cy="548.92" rx="247.014" ry="17.84" style="fill:rgb(76,76,76);"/>
+    </g>
+    <g transform="matrix(1,0,0,2.13462,-481.677,-621.889)">
+        <ellipse cx="745.159" cy="548.92" rx="247.014" ry="17.84" style="fill:rgb(76,76,76);"/>
+    </g>
+    <g transform="matrix(11.0322,0,0,11.0322,-2455.78,-3103.11)">
+        <text x="247.014px" y="326.607px" style="font-family:'CambriaMath', 'Cambria Math', serif;font-size:24px;">S</text>
+    </g>
+    <g transform="matrix(10.2534,0,0,10.2534,-6316.61,-7187.86)">
+        <text x="677.916px" y="775.349px" style="font-family:'CambriaMath', 'Cambria Math', serif;font-size:24px;">G</text>
+    </g>
+</svg>
