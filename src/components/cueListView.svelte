@@ -54,7 +54,7 @@
     <Dialog.Trigger class="add-cue-btn">Add cue</Dialog.Trigger>
     <Dialog.Content>
       <Dialog.Header>
-        <Dialog.Title>Select action</Dialog.Title>
+        <Dialog.Title>Add action</Dialog.Title>
         <Dialog.Description>
           {#each all_actions as module_info}
             <div class="flex-col flex gap-4">
