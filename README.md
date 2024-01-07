@@ -1,6 +1,6 @@
 # StageGlider
 
-![alt text](https://github.com/MarcisAn/stage-glider/blob/main/public/logo.png?raw=true)
+![alt text](https://github.com/MarcisAn/stage-glider/blob/main/public/logo.png?raw=true =250x250)
 
 StageGlider is an cross-platform app for cammanding various peaces of software related to stage production and more.
 
