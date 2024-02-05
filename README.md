@@ -1,8 +1,3 @@
 # StageGlider
 
-![alt text](https://github.com/MarcisAn/stage-glider/blob/main/screenshots/1.PNG?raw=true)
-![alt text](https://github.com/MarcisAn/stage-glider/blob/main/screenshots/2.PNG?raw=true)
-
-StageGlider is an cross-platform app for cammanding various peaces of software related to stage production and more.
-
-All actions launched from StageGlider are python scripts.
+An cross-platform GUI app for running python scripts with an interface designed for stage productions.
